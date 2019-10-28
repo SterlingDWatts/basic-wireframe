@@ -8,4 +8,4 @@ Basic wireframe for starting new projects
 * JavaScript/jQuery
 
 ## Website ##
-![Wireframe Site](https://sterlingdwatts.github.io/basic-wireframe/)
+[Wireframe Site](https://sterlingdwatts.github.io/basic-wireframe/)
